@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(165, 194, 228);
+}
+table{
+    border-style:dashed;
+    background-color: bisque;
+    border-color: brown;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width:5%;
+}
